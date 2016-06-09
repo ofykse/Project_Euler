@@ -8,7 +8,6 @@ class Untitled {
 		String product = "";
 		int largest = 0;
 		
-		
 		for (int i = 100; i <= 999; i++) {
 			for (int j = 100; j <= 999; j++) {
 				
@@ -26,6 +25,5 @@ class Untitled {
 			}
 		}
 		System.out.println("This is the largest palindrome: " + largest);
-		
 	}
 }

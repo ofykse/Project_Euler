@@ -8,8 +8,6 @@ class Untitled {
 			sum += i;
 		}
 	}
-	
 	System.out.println(sum);
-	
 	}
 }

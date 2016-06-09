@@ -1,6 +1,5 @@
 class Untitled {
 	public static void main(String[] args) {
-
 			
 			int sum = 2;
 			int first = 1;
@@ -14,11 +13,8 @@ class Untitled {
 				}
 			first = second;
 			second = third;
-			
 			}
-			
-			
+
 			System.out.println(sum);
-			
 	}
 }
